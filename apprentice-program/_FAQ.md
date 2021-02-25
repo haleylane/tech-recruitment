@@ -38,8 +38,8 @@ No, but it helps.  We partner with organizations like [LaunchCode](https://www.l
 
 If you're considering whether a coding bootcamp is right for you, reach out to [david.mitchell@vmlyr.com](mailto:david.mitchell@vmlyr.com), [lyndsey.padget@vmlyr.com](mailto:lyndsey.padget@vmlyr.com), or [shanice.gipson@vmlyr.com](mailto:shanice.gipson@vmlyr.com).  They'd be happy to chat with you about your career and needs, and offer suggestions on next steps.
 
-### Will you only consider apprentice candidates in the Kansas City area?
-No.  In 2020, most technologists demonstrated their ability to learn and work remotely.  While we prefer that the apprentice/coach relationship be in person, it may not be absolutely necessary, either.  Apprentice candidate pools may now include bootcamp grads that are willing to relocate to Kansas City.
+### Will you consider apprentice candidates outside the Kansas City area?
+Yes.  In 2020, most technologists demonstrated their ability to learn and work remotely.  While we prefer that the apprentice/coach relationship be in person, it may not be absolutely necessary, either.  Apprentice candidate pools may now include bootcamp grads that are willing to relocate to Kansas City.
 
 Apprentices are an evaluation period, and as such, apprentices will not be required nor expected to move to Kansas City for the first 6 months of their apprenticeship.  After that, conversations between you and your manager (who is informed by your coach) should drive the relocation decision.
 
