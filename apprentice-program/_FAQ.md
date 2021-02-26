@@ -24,6 +24,9 @@ Record yourself answering the questions below.  You should be able to use the re
 1. a link to your LinkedIn and GitHub presence, if available
 1. any other relevant notes
 
+### Are VMLY&R tech apprentice positions paid?
+Yep.
+
 ### When do you accept applications for the program?
 We accept applications at any time.  Potential candidate-to-project matching may occur any time throughout the year, as needed.
 
