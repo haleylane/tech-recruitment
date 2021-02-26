@@ -24,9 +24,6 @@ Record yourself answering the questions below.  You should be able to use the re
 1. a link to your LinkedIn and GitHub presence, if available
 1. any other relevant notes
 
-### Are VMLY&R tech apprentice positions paid?
-Yep.
-
 ### When do you accept applications for the program?
 We accept applications at any time.  Potential candidate-to-project matching may occur any time throughout the year, as needed.
 
@@ -38,6 +35,9 @@ Your application will be kept on file for one year.  If you want to update your 
 
 ### What do I do if I applied but I'm no longer available/interested?
 You can email [lyndsey.padget@vmlyr.com](mailto:lyndsey.padget@vmlyr.com) to be removed from the candidate list.  Or simply let us know that you're not available/interested if we reach out later.  No biggie.
+
+### Are VMLY&R tech apprentice positions paid?
+Yep.
 
 ### How do VMLY&R hiring managers get an apprentice?
 Hiring managers (project leads) in development with funded, secured work fill out an internal form to indicate their interest.  This leads to exploring a list of candidates to fit the need while internal HR due diligence and paperwork is pursued.
@@ -87,7 +87,7 @@ PTO depends on the hiring circumstances.
 If you are asked for a follow-up interview and VMLY&R offers you an apprenticeship, we will likely refer you to one of our trusted hiring partners.  Most hiring partners pay for 11 VMLY&R holidays plus 2 weeks of PTO annually, but this is not guaranteed.
 
 ### Can Apprentices Participate in VMLY&R Foundation Day?
-Yes, but this is not included in paid VMLY&R holidays.  They are invited to participate, but they must use a day of PTO.
+Yes, but this is not included in paid VMLY&R holidays.  You are invited to participate, but you must use a day of PTO.
 
 ### How do Rotations Work?
 A "rotation" is an opportunity to move to a different practice within the Technology organization.  For example, you might move from Development to TechOps, or TechOps to AQ.  Rotations are an important part of the apprenticeship program, but "if it ain't broke, don't fix it".  Rotations will be initiated based on feedback from you, your coach, and your manager.  If a rotation is set to occur, there will be plenty of notice for all.
