@@ -25,10 +25,16 @@ Record yourself answering the questions below.  You should be able to use the re
 1. any other relevant notes
 
 ### When do you accept applications for the program?
-We accept submissions at any time.  Potential candidate-to-project matching may occur any time throughout the year, as needed.
+We accept applications at any time.  Potential candidate-to-project matching may occur any time throughout the year, as needed.
 
 ### I applied!  What happens next?
-Within 1-2 days, you should expect a confirmation that your email was received and that we were able to access all of the necessary pieces of info.  After that, hiring managers will be able to access this info as their staffing needs evolve throughout the year.
+Within 1-2 days, you should expect a confirmation that your email was received and that we were able to access all of the necessary pieces of info.  After that, hiring managers will be able to access this info as their staffing needs evolve.
+
+### What happens to my application if it doesn't meet current business needs?  How long is my application stored and when should I re-apply?
+Your application will be kept on file for one year.  If you want to update your submission with a new video or resume, simply re-submit with a note to replace your previous submission.  
+
+### What do I do if I applied but I'm no longer available/interested?
+You can email [lyndsey.padget@vmlyr.com](mailto:lyndsey.padget@vmlyr.com) to be removed from the candidate list.  Or simply let us know that you're not available/interested if we reach out later.  No biggie.
 
 ### How do VMLY&R hiring managers get an apprentice?
 Hiring managers (project leads) in development with funded, secured work fill out an internal form to indicate their interest.  This leads to exploring a list of candidates to fit the need while internal HR due diligence and paperwork is pursued.
@@ -81,7 +87,4 @@ If you are asked for a follow-up interview and VMLY&R offers you an apprenticesh
 Yes, but this is not included in paid VMLY&R holidays.  They are invited to participate, but they must use a day of PTO.
 
 ### How do Rotations Work?
-Rotations are an important part of the apprenticeship program, but "if it ain't broke, don't fix it".  Rotations will be initiated based on feedback from you, your coach, and your manager.  If a rotation is set to occur, there will be plenty of notice for all.
-
-### What do I do if I applied but I'm no longer available/interested?
-You can email [lyndsey.padget@vmlyr.com](mailto:lyndsey.padget@vmlyr.com) to be removed from the candidate list.  Or simply let us know that you're not available/interested if we reach out later.  No biggie.
+A "rotation" is an opportunity to move to a different practice within the Technology organization.  For example, you might move from Development to TechOps, or TechOps to AQ.  Rotations are an important part of the apprenticeship program, but "if it ain't broke, don't fix it".  Rotations will be initiated based on feedback from you, your coach, and your manager.  If a rotation is set to occur, there will be plenty of notice for all.
